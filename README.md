@@ -22,9 +22,8 @@ Other than programming and building projects, I love to spend my time in pencil 
 
 ## 👩‍💻  About Me
 
-- 🔭 I’m currently working on Python.<br>
 - 🌱 I’m currently learning PyTorch, Deep Learning and NLP.<br>
-- 👯 I’m looking to collaborate and explore more.<br>
+- 👯 I’m looking to collaborate and explore more majorly in the field of Data Science.<br>
 - 😄 Pronouns: She/her<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
