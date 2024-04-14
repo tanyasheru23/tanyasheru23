@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Python.
 - 🌱 I’m currently learning Deep Learning.
 - 👯 I’m looking to collaborate on open source projects, majorly in Data Science
-- 📫 How to reach me: ...
 - 😄 Pronouns: She/her
