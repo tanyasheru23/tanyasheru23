@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋. This is Tanya
+
+## B.Tech 3rd year undergrad at IIT Mandi in Data Science and Engg
 
 <!--
 **tanyasheru23/tanyasheru23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Python.
+- 🌱 I’m currently learning Deep Learning.
+- 👯 I’m looking to collaborate on open source projects, majorly in Data Science
+- 📫 How to reach me: ...
+- 😄 Pronouns: She/her
