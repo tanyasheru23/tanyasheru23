@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Data Science enthusiast, with quite a good grasp on Machine Learning and Deep Learning, and have worked on projects in these areas. Also would love to work on more of the projects related to the same. I am always looking for opportunities to collaborate, learn and grow my skillset. 
+I am a Data Science enthusiast, with quite a good grasp on Machine Learning and Deep Learning, and have worked on projects in these areas. Also would love to work on more of the projects related to the same. I am always looking for opportunities to collaborate, learn and grow my skillset. 
 
 Other than programming and building projects, I love to spend my time in pencil sketching, digital arts, literature and yoga.
 
