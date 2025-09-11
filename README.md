@@ -1,6 +1,6 @@
 ### Hi there 👋. This is Tanya
 
-## B.Tech 3rd year undergrad at IIT Mandi in Data Science and Engg
+## B.Tech'25 Graduate from IIT Mandi in Data Science and Engg
 
 <!--
 **tanyasheru23/tanyasheru23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
