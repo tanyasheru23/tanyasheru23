@@ -1,6 +1,6 @@
-### Hi there 👋. This is Tanya
+# Hi there 👋, I'm Tanya
 
-## B.Tech'25 Graduate from IIT Mandi in Data Science and Engg
+### AI/ML Engineer | GenAI | LLMs | Deep Learning
 
 <!--
 **tanyasheru23/tanyasheru23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,15 +16,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Data Science enthusiast, with quite a good grasp on Machine Learning and Deep Learning, and have worked on projects in these areas. Also would love to work on more of the projects related to the same. I am always looking for opportunities to collaborate, learn and grow my skillset. 
 
-Other than programming and building projects, I love to spend my time in pencil sketching, digital arts, literature and yoga.
+B.Tech '25 graduate from **IIT Mandi** in Data Science and Engineering.
 
-## 👩‍💻  About Me
+I build AI/ML systems across **Machine Learning, Deep Learning, Generative AI, and Agentic AI**. My work includes LLM fine-tuning, RAG systems, multi-agent workflows, NLP, computer vision, and production-oriented AI applications.
 
-- 🌱 I’m currently learning PyTorch, Deep Learning and NLP.<br>
-- 👯 I’m looking to collaborate and explore more majorly in the field of Data Science.<br>
-- 😄 Pronouns: She/her<br>
+I've worked with technologies including **PyTorch, Transformers, LangChain, LangGraph, OpenAI Agents SDK, FastAPI, PostgreSQL, Docker, and vector databases**.
+
+I'm particularly interested in building reliable, scalable AI systems and exploring how LLMs can be used to solve real-world problems.
+
+Outside of tech, I enjoy **yoga, digital art, sketching, literature, and learning Japanese**.
+
+## 🧑‍💻 What I Work With
+
+- 🤖 Machine Learning & Deep Learning
+- 🧠 LLMs, Fine-tuning, PEFT, LoRA & DPO
+- 🔎 RAG, Embeddings, Vector Databases & Reranking
+- 🕸️ Agentic AI, LangGraph & Multi-Agent Systems
+- ⚡ FastAPI, PostgreSQL & Docker
+- 🧪 AI Evaluation & Experimentation
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sher-thaniya-29a7a2231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sher-thaniya-29a7a2231/" height="30" width="40" /></a>
