@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Tanya
+# Hi there 👋, I'm Thaniya
 
 ### AI/ML Engineer | GenAI | LLMs | Deep Learning
 
